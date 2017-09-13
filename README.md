@@ -1,2 +1,2 @@
 # Shell-Scripts
-Collection of shell script make to esay my WORK 
+Collection of shell scripts make WORK esay 
