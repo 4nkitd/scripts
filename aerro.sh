@@ -99,7 +99,7 @@ if [ $userin == "inc" ];
     
     elif [ $userin == "2" ];
      then
-           perl IPI;
+           perl /bin/IPI;
     
     elif [ $userin == "3"  ]; 
     	then
