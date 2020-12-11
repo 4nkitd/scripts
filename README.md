@@ -1,3 +1,5 @@
+>> edit files before using them
+
 # Shell-Scripts
 Collection of shell scripts make WORK esay 
 These scrips are desined to run perticulery on linux  and can be used all together and with eath other
@@ -18,5 +20,11 @@ I DO NOT RECOMEND to use this script as it is under contruction..!!!
 # >IPI
 THIS Is a complete script uses an api to give a lot of deatils about an ip using the api.
 You just have to tell the ip address
+
+# >PPC
+PHP Project Creator to shot my time to setup a project. 
+
+# >auto_file_mover
+Auto File Mover is a small script to arrange files inside folders
 
 # END
